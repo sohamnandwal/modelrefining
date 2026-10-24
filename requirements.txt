@@ -1,0 +1,19 @@
+# Core requirements for Syntax Error 2026 PS2 Local LLM Track
+# SGLang inference + Lexsi Labs toolkits (CuratorKIT, AlignTune, AuditKIT) + Streamlit UI
+
+pydantic>=2.7.0
+litellm>=1.40.0
+google-genai>=1.0.0
+openai>=1.30.0
+datasets>=2.19.0
+transformers>=4.45.0
+accelerate>=0.30.0
+peft>=0.11.0
+trl>=0.9.0
+bitsandbytes>=0.43.0
+rich>=13.7.0
+streamlit>=1.35.0
+pandas>=2.2.0
+numpy>=1.26.0
+requests>=2.31.0
+tqdm>=4.66.0

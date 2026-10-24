@@ -1,0 +1,16 @@
+{
+  "curatorkit_version": "1.2.0-lexsi",
+  "backend_engine": "SGLang (http://localhost:30000/v1)",
+  "input_samples": 300,
+  "deduplicated_samples": 300,
+  "dedup_algorithm": "minhash_jaccard_0.85",
+  "pii_hygiene_flags": 39,
+  "provenance_fingerprint": "11a92a59e6710b687c38f21efdf4191f865084859188babad65378fbc2183a03",
+  "export_formats": [
+    "alpaca",
+    "sharegpt",
+    "sft",
+    "dpo",
+    "grpo"
+  ]
+}

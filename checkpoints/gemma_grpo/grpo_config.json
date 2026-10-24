@@ -1,0 +1,11 @@
+{
+  "algorithm": "grpo",
+  "group_size": 4,
+  "reward_functions": [
+    "schema_validity",
+    "dispute_amount_accuracy",
+    "order_id_grounding",
+    "policy_urgency_matrix",
+    "micro_reasoning_quality"
+  ]
+}
