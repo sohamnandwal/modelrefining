@@ -45,3 +45,4 @@ else
     echo "Usage: bash run_servers.sh [untuned | aligned]"
     exit 1
 fi
+

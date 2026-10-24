@@ -65,3 +65,4 @@ pip install trl peft accelerate bitsandbytes litellm datasets pydantic pandas ri
 echo "================================================================================"
 echo " [Setup Complete] Run: source $VENV_PATH/bin/activate"
 echo "================================================================================"
+

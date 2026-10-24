@@ -377,3 +377,4 @@ if run_button:
         st.metric("Schema Validity", "100.0%", "Guaranteed by XGrammar")
     with m4:
         st.metric("Cost Reduction / 1M Reqs", "98.7% Savings", "$1.50 → $0.02")
+

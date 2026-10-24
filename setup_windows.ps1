@@ -18,3 +18,4 @@ nestedVirtualization=true
 Set-Content -Path $wslConfigPath -Value $wslConfigContent
 Write-Host "Successfully wrote memory=12GB and swap=16GB to $wslConfigPath" -ForegroundColor Green
 Write-Host "To apply the new memory settings, run: wsl --shutdown" -ForegroundColor Yellow
+

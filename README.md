@@ -221,3 +221,4 @@ Enterprise triage systems process thousands of tickets against a shared SOP prom
 - [x] **Stage 2 (Finetuning):** AlignTune uses Unsloth/TRL for SFT + DPO + GRPO.
 - [x] **Stage 3 (Evals / Inference):** AuditKIT multi-model evaluation + RedTeamRunner safety audit + SGLang with XGrammar.
 - [x] **Problem Statement 2:** Full replacement of closed frontier API with 98.7% cost reduction and matched schema fidelity.
+

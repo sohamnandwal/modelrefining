@@ -290,3 +290,4 @@ if __name__ == "__main__":
         run_dpo(args.model)
     elif args.stage == "merge":
         run_merge(args.model)
+
